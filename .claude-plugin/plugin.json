@@ -1,0 +1,10 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "cargo-log-parser",
+  "version": "1.0.0",
+  "description": "Parse and filter cargo build logs to extract errors, warnings, and diagnostics with regex-based filtering. Use for debugging Rust projects, analyzing cargo build output, or filtering errors by file/message/code patterns.",
+  "author": {
+    "name": "Mathieu"
+  },
+  "skills": ["./"]
+}
